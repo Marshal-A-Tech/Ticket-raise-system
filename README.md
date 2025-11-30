@@ -91,6 +91,8 @@ Ticket-raise-system/
 
 ### 1️⃣ Clone Project
 ```bash
+git clone https://github.com/Marshal-A-Tech/Ticket-raise-system.git
+cd Ticket-raise-system
 2️⃣ Configure Database
 
 Edit application.properties:
